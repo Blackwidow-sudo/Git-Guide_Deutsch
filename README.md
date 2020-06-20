@@ -3,7 +3,7 @@
 
 ### Quick Cheatsheet for Git Commands
 
-```git clone https://github.com/Blackwidow-sudo/beispiel-website.git``` Bring a Repository that is hosted on GitHub into a Folder on your local Machine.
+```git clone https://github.com/USERNAME/REPOSITORY.git``` Bring a Repository that is hosted on GitHub into a Folder on your local Machine.
 
 ```git add``` Track your Files and Changes in Git
 
@@ -64,9 +64,12 @@ die Implementierung in das Projekt ist, wird der Branch mit Master verschmolzen 
 
 #### Merge
 Merge bedeutet soviel wie verschmelzen, fusionieren oder vereinigen.
-Beispiel eines Workflow's:
 
 ![alt text](https://guides.github.com/activities/hello-world/branching.png "Git & GitHub Workflow")
+Source: <https://guides.github.com/activities/hello-world/>
+
+Beispiel eines Workflow's:
+
   1. Erstelle 'Feature' branch von 'Master'
   2. Commit Changes
   3. Merge 'Feature' branch in 'Master' hinein
