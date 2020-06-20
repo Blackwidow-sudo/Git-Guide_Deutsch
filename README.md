@@ -3,7 +3,7 @@
 
 ### Quick Cheatsheet for Git Commands
 
-```git clone``` Bring a Repository that is hosted on GitHub into a Folder on your local Machine.
+```git clone https://github.com/Blackwidow-sudo/beispiel-website.git``` Bring a Repository that is hosted on GitHub into a Folder on your local Machine.
 
 ```git add``` Track your Files and Changes in Git
 
